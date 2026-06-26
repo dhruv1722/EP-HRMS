@@ -6,7 +6,7 @@
 					<!-- <FrappeHRLogo class="h-8 w-8" /> -->
 					 <EPLogo class="h-40 w-40" />
 					<div class="text-3xl font-semibold text-gray-900 text-center">
-						{{ __("Login to Frappe HR") }}
+						{{ __("Login to Excellent Publicity") }}
 					</div>
 				</div>
 
