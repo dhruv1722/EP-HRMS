@@ -19,7 +19,7 @@
 						:listButtonRoute="__('AttendanceRequestListView')"
 					/>
 				</div>
-				<div>
+				<!-- <div>
 					<div class="text-lg text-gray-800 font-bold">{{ __("Upcoming Shifts") }}</div>
 					<RequestList
 						:component="markRaw(ShiftAssignmentItem)"
@@ -44,7 +44,7 @@
 						:addListButton="true"
 						listButtonRoute="ShiftRequestListView"
 					/>
-				</div>
+				</div> -->
 			</div>
 		</template>
 	</BaseLayout>
